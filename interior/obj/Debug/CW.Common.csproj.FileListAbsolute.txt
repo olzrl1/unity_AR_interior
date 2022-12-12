@@ -1,0 +1,2 @@
+C:\Users\msi\Desktop\interior\obj\Debug\CW.Common.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\interior\obj\Debug\CW.Common.csproj.CoreCompileInputs.cache
